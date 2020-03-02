@@ -6,7 +6,7 @@
 // WiFi parameters 
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
-//define relay D5 
+
 /************************* WiFi Access Point *********************************/
 
 #define WLAN_SSID       "wifi"
